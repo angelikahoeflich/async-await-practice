@@ -26,6 +26,8 @@ function getPokemon() {
 // STEP 1:
 // Without accounting for error handling, convert the above .then()s into async/await syntax below
 
+const getPokemon = await
+
 // STEP 2:
 // Now use a try/catch block to account for error handling for the code above.
 // Then, implement the following console.log( ) in a finally block to check your pokemonArray length: 
